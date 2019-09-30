@@ -1,0 +1,900 @@
+{"cities":[
+	{"name":"china","z_name": "中国","city":[{"name":"all","z_name":"所有城市"}]},
+
+	{"name":"beijing","z_name": "北京市市辖区","city":[{"name":"all","z_name":"所有城市"}]},
+
+	{ "name":"tianjin","z_name": "天津市市辖区","city":[{"name":"all","z_name":"所有城市"}]},
+	
+	{ "name":"shanghai","z_name": "上海市市辖区","city":[{"name":"all","z_name":"所有城市"}]},
+	
+	{ "name":"chongqing","z_name": "重庆市市辖区","city":[{"name":"all","z_name":"所有城市"}]},
+
+	{ "name":"hebei","z_name": "河北省", "city":[
+
+		{"name":"all","z_name":"所有城市"},
+		
+		{"name":"shijiazhuang","z_name":"石家庄市"},
+
+		{"name":"tangshan","z_name":"唐山市"},
+
+		{"name":"qinhuangdao","z_name":"秦皇岛市"},
+
+		{"name":"handan","z_name":"邯郸市"},
+
+		{"name":"xingtai","z_name":"邢台市"},
+
+		{"name":"baoding","z_name":"保定市"},
+
+		{"name":"zhangjiakou","z_name":"张家口市"},
+
+		{"name":"chengde","z_name":"承德市"},
+
+		{"name":"cangzhou","z_name":"沧州市"},
+
+		{"name":"langfang","z_name":"廊坊市"},
+
+		{"name":"hengshui","z_name":"衡水市"}
+
+	]},
+
+	{ "name":"shanxi","z_name": "山西省", "city":[
+	
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"taiyuan","z_name":"太原市"},
+
+		{"name":"datong","z_name":"大同市"},
+
+		{"name":"yangquan","z_name":"阳泉市"},
+
+		{"name":"changzhi","z_name":"长治市"},
+
+		{"name":"jincheng","z_name":"晋城市"},
+
+		{"name":"shuozhou","z_name":"朔州市"},
+
+		{"name":"jinzhong","z_name":"晋中市"},
+
+		{"name":"yuncheng","z_name":"运城市"},
+
+		{"name":"xinzhou","z_name":"忻州市"},
+
+		{"name":"linfen","z_name":"临汾市"},
+
+		{"name":"lvliang","z_name":"吕梁市"}
+
+	]},
+
+	{ "name":"neimenggu","z_name": "内蒙古自治区", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"huhehaote","z_name":"呼和浩特市"},
+
+		{"name":"baotou","z_name":"包头市"},
+
+		{"name":"wuhai","z_name":"乌海市"},
+
+		{"name":"chifeng","z_name":"赤峰市"},
+
+		{"name":"tongliao","z_name":"通辽市"},
+
+		{"name":"hulunbeier","z_name":"呼伦贝尔市"},
+
+		{"name":"bayannaoermeng","z_name":"巴彦淖尔市"},
+
+		{"name":"wulanchabumeng","z_name":"乌兰察布市"},
+
+		{"name":"xinganmeng","z_name":"兴安盟"},
+
+		{"name":"xilinguolemeng","z_name":"锡林郭勒盟"},
+
+		{"name":"alashanmeng","z_name":"阿拉善盟"}
+
+	]},
+
+	{ "name":"liaoning","z_name": "辽宁省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"shenyang","z_name":"沈阳市"},
+
+		{"name":"dalian","z_name":"大连"},
+
+		{"name":"anshan","z_name":"鞍山市"},
+
+		{"name":"fushun","z_name":"抚顺市"},
+
+		{"name":"benxi","z_name":"本溪市"},
+
+		{"name":"dandong","z_name":"丹东市"},
+
+		{"name":"jinzhou","z_name":"锦州市"},
+
+		{"name":"yingkou","z_name":"营口市"},
+
+		{"name":"fuxin","z_name":"阜新市"},
+
+		{"name":"liaoyang","z_name":"辽阳市"},
+
+		{"name":"panjin","z_name":"盘锦市"},
+
+		{"name":"tieling","z_name":"铁岭市"},
+
+		{"name":"chaoyang","z_name":"朝阳市"},
+
+		{"name":"huludao","z_name":"葫芦岛市"}
+
+	]},
+
+	{ "name":"jilin","z_name": "吉林省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"changchun","z_name":"长春市"},
+
+		{"name":"jilin","z_name":"吉林市"},
+
+		{"name":"siping","z_name":"四平市"},
+
+		{"name":"liaoyuan","z_name":"辽源市"},
+
+		{"name":"tonghua","z_name":"通化市"},
+
+		{"name":"baishan","z_name":"白山市"},
+
+		{"name":"songyuan","z_name":"松原市"},
+
+		{"name":"baicheng","z_name":"白城市"},
+
+		{"name":"yanbianchaoxian","z_name":"延边朝鲜族自治州"}
+
+	]},
+
+	{ "name":"heilongjiang","z_name": "黑龙江省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"haerbin","z_name":"哈尔滨市"},
+
+		{"name":"qiqihaer","z_name":"齐齐哈尔市"},
+
+		{"name":"hegang","z_name":"鹤岗市"},
+
+		{"name":"jixi","z_name":"鸡西市"},
+
+		{"name":"shuangyashan","z_name":"双鸭山市"},
+
+		{"name":"daqing","z_name":"大庆市"},
+
+		{"name":"yichun","z_name":"伊春市"},
+
+		{"name":"jiamusi","z_name":"佳木斯市"},
+
+		{"name":"qitaihe","z_name":"七台河市"},
+
+		{"name":"mudanjiang","z_name":"牡丹江市"},
+
+		{"name":"heihe","z_name":"黑河市"},
+
+		{"name":"suihua","z_name":"绥化市"},
+
+		{"name":"daxinganling","z_name":"大兴安岭地区"}
+
+	]},
+
+	{ "name":"jiangsu","z_name": "江苏省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"nanjing","z_name":"南京市"},
+
+		{"name":"wuxi","z_name":"无锡市"},
+
+		{"name":"xuzhou","z_name":"徐州市"},
+
+		{"name":"changzhou","z_name":"常州市"},
+
+		{"name":"suzhou","z_name":"苏州市"},
+
+		{"name":"nantong","z_name":"南通市"},
+
+		{"name":"lianyungang","z_name":"连云港市"},
+
+		{"name":"huaian","z_name":"淮安市"},
+
+		{"name":"yancheng","z_name":"盐城市"},
+
+		{"name":"yangzhou","z_name":"扬州市"},
+
+		{"name":"zhenjiang","z_name":"镇江市"},
+
+		{"name":"taizhou","z_name":"泰州市"},
+
+		{"name":"suqian","z_name":"宿迁市"}
+
+	]},
+
+	{ "name":"zhejiang","z_name": "浙江省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"hangzhou","z_name":"杭州市"},
+
+		{"name":"ningbo","z_name":"宁波市"},
+
+		{"name":"wenzhou","z_name":"温州市"},
+
+		{"name":"jiaxing","z_name":"嘉兴市"},
+
+		{"name":"huzhou","z_name":"湖州市"},
+
+		{"name":"shaoxing","z_name":"绍兴市"},
+
+		{"name":"jinhua","z_name":"金华市"},
+
+		{"name":"quzhou","z_name":"衢州市"},
+
+		{"name":"zhoushan","z_name":"舟山市"},
+
+		{"name":"taizhou","z_name":"台州市"},
+
+		{"name":"lishui","z_name":"丽水市"}
+
+	]},
+
+	{ "name":"anhui","z_name": "安徽省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"hefei","z_name":"合肥市"},
+
+		{"name":"wuhu","z_name":"芜湖市"},
+
+		{"name":"bengbu","z_name":"蚌埠市"},
+
+		{"name":"huainan","z_name":"淮南市"},
+
+		{"name":"maanshan","z_name":"马鞍山市"},
+
+		{"name":"huaibei","z_name":"淮北市"},
+
+		{"name":"tongling","z_name":"铜陵市"},
+
+		{"name":"anqing","z_name":"安庆市"},
+
+		{"name":"huangshan","z_name":"黄山市"},
+
+		{"name":"chuzhou","z_name":"滁州市"},
+
+		{"name":"fuyang","z_name":"阜阳市"},
+
+		{"name":"suzhou","z_name":"宿州市"},
+
+		{"name":"liuan","z_name":"六安市"},
+
+		{"name":"haozhou","z_name":"亳州市"},
+
+		{"name":"chizhou","z_name":"池州市"},
+
+		{"name":"xuancheng","z_name":"宣城市"}
+
+	]},
+
+	{ "name":"fujian","z_name": "福建省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"fuzhou","z_name":"福州市"},
+
+		{"name":"xiamen","z_name":"厦门市"},
+
+		{"name":"putian","z_name":"莆田市"},
+
+		{"name":"sanming","z_name":"三明市"},
+
+		{"name":"quanzhou","z_name":"泉州市"},
+
+		{"name":"zhangzhou","z_name":"漳州市"},
+
+		{"name":"nanping","z_name":"南平市"},
+
+		{"name":"longyan","z_name":"龙岩市"},
+
+		{"name":"ningde","z_name":"宁德市"}
+
+	]},
+
+	{ "name":"jiangxi","z_name": "江西省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"nanchang","z_name":"南昌市"},
+
+		{"name":"jingdezhen","z_name":"景德镇市"},
+
+		{"name":"pingxiang","z_name":"萍乡市"},
+
+		{"name":"jiujiang","z_name":"九江市"},
+
+		{"name":"xinyu","z_name":"新余市"},
+
+		{"name":"yingtan","z_name":"鹰潭市"},
+
+		{"name":"ganzhou","z_name":"赣州市"},
+
+		{"name":"jian","z_name":"吉安市"},
+
+		{"name":"yichun","z_name":"宜春市"},
+
+		{"name":"fuzhou","z_name":"抚州市"},
+
+		{"name":"shangrao","z_name":"上饶市"}
+
+	]},
+
+	{ "name":"shandong","z_name": "山东省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"jinan","z_name":"济南市"},
+
+		{"name":"qingdao","z_name":"青岛市"},
+
+		{"name":"zibo","z_name":"淄博市"},
+
+		{"name":"zaozhuang","z_name":"枣庄市"},
+
+		{"name":"dongying","z_name":"东营市"},
+
+		{"name":"yantai","z_name":"烟台市"},
+
+		{"name":"weifang","z_name":"潍坊市"},
+
+		{"name":"jining","z_name":"济宁市"},
+
+		{"name":"taian","z_name":"泰安市"},
+
+		{"name":"weihai","z_name":"威海市"},
+
+		{"name":"rizhao","z_name":"日照市"},
+
+		{"name":"laiwu","z_name":"莱芜市"},
+
+		{"name":"linyi","z_name":"临沂市"},
+
+		{"name":"dezhou","z_name":"德州市"},
+
+		{"name":"liaocheng","z_name":"聊城市"},
+
+		{"name":"binzhou","z_name":"滨州市"},
+
+		{"name":"heze","z_name":"菏泽市"}
+
+	]},
+
+	{ "name":"henan","z_name": "河南省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"zhenzhou","z_name":"郑州市"},
+
+		{"name":"kaifeng","z_name":"开封市"},
+
+		{"name":"luoyang","z_name":"洛阳市"},
+
+		{"name":"pingdingshan","z_name":"平顶山市"},
+
+		{"name":"anyang","z_name":"安阳市"},
+
+		{"name":"hebi","z_name":"鹤壁市"},
+
+		{"name":"xinxiang","z_name":"新乡市"},
+
+		{"name":"jiaozuo","z_name":"焦作市"},
+
+		{"name":"puyang","z_name":"濮阳市"},
+
+		{"name":"xuchang","z_name":"许昌市"},
+
+		{"name":"luohe","z_name":"漯河市"},
+
+		{"name":"sanmenxia","z_name":"三门峡市"},
+
+		{"name":"nanyang","z_name":"南阳市"},
+
+		{"name":"shangqiu","z_name":"商丘市"},
+
+		{"name":"xinyang","z_name":"信阳市"},
+
+		{"name":"zhoukou","z_name":"周口市"},
+
+		{"name":"zhumadian","z_name":"驻马店市"}
+
+	]},
+
+	{ "name":"hubei","z_name": "湖北省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"wuhan","z_name":"武汉市"},
+
+		{"name":"huangshi","z_name":"黄石市"},
+
+		{"name":"shiye","z_name":"十堰市"},
+
+		{"name":"yichang","z_name":"宜昌市"},
+
+		{"name":"xiangyang","z_name":"襄阳市"},
+
+		{"name":"ezhou","z_name":"鄂州市"},
+
+		{"name":"jinmen","z_name":"荆门市"},
+
+		{"name":"xiaogan","z_name":"孝感市"},
+
+		{"name":"jinzhou","z_name":"荆州市"},
+
+		{"name":"huanggang","z_name":"黄冈市"},
+
+		{"name":"xianning","z_name":"咸宁市"},
+
+		{"name":"suizhou","z_name":"随州市"},
+
+		{"name":"enshi","z_name":"恩施土家族苗族自治州"},
+
+		{"name":"xiantao","z_name":"仙桃市"},
+
+		{"name":"qianjiang","z_name":"潜江市"},
+
+		{"name":"tianmen","z_name":"天门市"},
+
+		{"name":"shenlongjia","z_name":"神农架林区"}
+
+	]},
+
+	{ "name":"hunan","z_name": "湖南省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"changsha","z_name":"长沙市"},
+
+		{"name":"zhuzhou","z_name":"株洲市"},
+
+		{"name":"xiangtan","z_name":"湘潭市"},
+
+		{"name":"hengyang","z_name":"衡阳市"},
+
+		{"name":"shaoyang","z_name":"邵阳市"},
+
+		{"name":"yueyang","z_name":"岳阳市"},
+
+		{"name":"changde","z_name":"常德市"},
+
+		{"name":"zhangjiajie","z_name":"张家界市"},
+
+		{"name":"yiyang","z_name":"益阳市"},
+
+		{"name":"chenzhou","z_name":"郴州市"},
+
+		{"name":"yongzhou","z_name":"永州市"},
+
+		{"name":"huaihua","z_name":"怀化市"},
+
+		{"name":"loudi","z_name":"娄底市"},
+
+		{"name":"xiangxi","z_name":"湘西土家族苗族自治州"}
+
+	]},
+
+	{ "name":"guangdong","z_name": "广东省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"guangzhou","z_name":"广州市"},
+
+		{"name":"shaoguan","z_name":"韶关市"},
+
+		{"name":"shenzhen","z_name":"深圳市"},
+
+		{"name":"zhuhai","z_name":"珠海市"},
+
+		{"name":"shantou","z_name":"汕头市"},
+
+		{"name":"foshan","z_name":"佛山市"},
+
+		{"name":"jiangmen","z_name":"江门市"},
+
+		{"name":"zhanjiang","z_name":"湛江市"},
+
+		{"name":"maoming","z_name":"茂名市"},
+
+		{"name":"zhaoqing","z_name":"肇庆市"},
+
+		{"name":"huizhou","z_name":"惠州市"},
+
+		{"name":"meizhou","z_name":"梅州市"},
+
+		{"name":"shanwei","z_name":"汕尾市"},
+
+		{"name":"heyuan","z_name":"河源市"},
+
+		{"name":"yangjiang","z_name":"阳江市"},
+
+		{"name":"qingyuan","z_name":"清远市"},
+
+		{"name":"dongguan","z_name":"东莞市"},
+
+		{"name":"zhongshan","z_name":"中山市"},
+
+		{"name":"chaozhou","z_name":"潮州市"},
+
+		{"name":"jieyang","z_name":"揭阳"},
+
+		{"name":"yunfu","z_name":"云浮"}
+
+	]},
+
+	{ "name":"guangxi","z_name": "广西壮族自治区", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"nanning","z_name":"南宁市"},
+
+		{"name":"liuzhou","z_name":"柳州市"},
+
+		{"name":"guilin","z_name":"桂林市"},
+
+		{"name":"wuzhou","z_name":"梧州市"},
+
+		{"name":"beihai","z_name":"北海市"},
+
+		{"name":"fangchenggang","z_name":"防城港市"},
+
+		{"name":"qinzhou","z_name":"钦州市"},
+
+		{"name":"guigang","z_name":"贵港市"},
+
+		{"name":"yulin","z_name":"玉林市"},
+
+		{"name":"baise","z_name":"百色市"},
+
+		{"name":"hezhou","z_name":"贺州市"},
+
+		{"name":"hechi","z_name":"河池市"},
+
+		{"name":"laibin","z_name":"来宾市"},
+
+		{"name":"chongzuo","z_name":"崇左市"}
+
+	]},
+
+	{ "name":"hainan","z_name": "海南省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"haikou","z_name":"海口市"},
+
+		{"name":"sanya","z_name":"三亚市"},
+
+		{"name":"danzhou","z_name":"儋州市"},
+
+		{"name":"wuzhishan","z_name":"五指山市"},
+
+		{"name":"qionghai","z_name":"琼海市"},
+
+		{"name":"wenchang","z_name":"文昌市"},
+
+		{"name":"wanning","z_name":"万宁市"},
+
+		{"name":"dongfang","z_name":"东方市"},
+
+		{"name":"dingan","z_name":"定安县"},
+
+		{"name":"tunchang","z_name":"屯昌县"},
+
+		{"name":"chengmai","z_name":"澄迈县"},
+
+		{"name":"lingao","z_name":"临高县"},
+
+		{"name":"baisha","z_name":"白沙黎族自治县"},
+
+		{"name":"changjiang","z_name":"昌江黎族自治县"},
+
+		{"name":"ledong","z_name":"乐东黎族自治县"},
+
+		{"name":"lingshui","z_name":"陵水黎族自治县"},
+
+		{"name":"baoting","z_name":"保亭黎族苗族自治县"},
+
+		{"name":"qiongzhong","z_name":"琼中黎族苗族自治县"}
+
+	]},
+
+	{ "name":"sichuan","z_name": "四川省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"chengdu","z_name":"成都市"},
+
+		{"name":"zigong","z_name":"自贡市"},
+
+		{"name":"panzhihua","z_name":"攀枝花市"},
+
+		{"name":"luzhou","z_name":"泸州市"},
+
+		{"name":"deyang","z_name":"德阳市"},
+
+		{"name":"mianyang","z_name":"绵阳市"},
+
+		{"name":"guangyuan","z_name":"广元市"},
+
+		{"name":"suining","z_name":"遂宁市"},
+
+		{"name":"neijiang","z_name":"内江市"},
+
+		{"name":"leshan","z_name":"乐山市"},
+
+		{"name":"nanchong","z_name":"南充市"},
+
+		{"name":"meishan","z_name":"眉山市"},
+
+		{"name":"yibin","z_name":"宜宾市"},
+
+		{"name":"guangan","z_name":"广安市"},
+
+		{"name":"dazhou","z_name":"达州市"},
+
+		{"name":"yaan","z_name":"雅安市"},
+
+		{"name":"bazhong","z_name":"巴中市"},
+
+		{"name":"ziyang","z_name":"资阳市"},
+
+		{"name":"aba","z_name":"阿坝藏族羌族自治州"},
+
+		{"name":"ganzi","z_name":"甘孜藏族自治州"},
+
+		{"name":"liangshan","z_name":"凉山彝族自治州"}
+
+	]},
+
+	{ "name":"guizhou","z_name": "贵州省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"guiyang","z_name":"贵阳市"},
+
+		{"name":"liupanshui","z_name":"六盘水市"},
+
+		{"name":"zunyi","z_name":"遵义市"},
+
+		{"name":"anshun","z_name":"安顺市"},
+
+		{"name":"bijie","z_name":"毕节市"},
+
+		{"name":"tongren","z_name":"铜仁市"},
+
+		{"name":"qianxi","z_name":"黔西南布依族苗族自治州"},
+
+		{"name":"qiandong","z_name":"黔东南苗族侗族自治州"},
+
+		{"name":"qiannan","z_name":"黔南布依族苗族自治州"}
+
+	]},
+
+	{ "name":"yunnan","z_name": "云南省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"kunming","z_name":"昆明市"},
+
+		{"name":"qujing","z_name":"曲靖市"},
+
+		{"name":"yuxi","z_name":"玉溪市"},
+
+		{"name":"baoshan","z_name":"保山市"},
+
+		{"name":"zhaotong","z_name":"昭通市"},
+
+		{"name":"lijiang","z_name":"丽江市"},
+
+		{"name":"puer","z_name":"普洱市"},
+
+		{"name":"lincang","z_name":"临沧市"},
+
+		{"name":"chuxiong","z_name":"楚雄彝族自治州"},
+
+		{"name":"honghehanizu","z_name":"红河哈尼族彝族自治州"},
+
+		{"name":"wenshanzhuangzu","z_name":"文山壮族苗族自治州"},
+
+		{"name":"xishuangbanna","z_name":"西双版纳傣族自治州"},
+
+		{"name":"dali","z_name":"大理白族自治州"},
+
+		{"name":"dehong","z_name":"德宏傣族景颇族自治州"},
+
+		{"name":"nujiang","z_name":"怒江傈僳族自治州"},
+
+		{"name":"diqing","z_name":"迪庆藏族自治州"}
+
+	]},
+
+	{ "name":"xizang","z_name": "西藏自治区", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"lasa","z_name":"拉萨市"},
+
+		{"name":"rikaze","z_name":"日喀则市"},
+
+		{"name":"changdu","z_name":"昌都市"},
+
+		{"name":"shannan","z_name":"山南市"},
+
+		{"name":"naqu","z_name":"那曲市"},
+
+		{"name":"ali","z_name":"阿里市"},
+
+		{"name":"linzhi","z_name":"林芝市"}
+
+	]},
+
+	{ "name":"shanxi1","z_name": "陕西省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"xian","z_name":"西安市"},
+
+		{"name":"tongchuan","z_name":"铜川市"},
+
+		{"name":"baoji","z_name":"宝鸡市"},
+
+		{"name":"xianyang","z_name":"咸阳市"},
+
+		{"name":"huainan","z_name":"渭南市"},
+
+		{"name":"yanan","z_name":"延安市"},
+
+		{"name":"hanzhong","z_name":"汉中市"},
+
+		{"name":"yulin","z_name":"榆林市"},
+
+		{"name":"ankang","z_name":"安康市"},
+
+		{"name":"shangluo","z_name":"商洛市"}
+
+	]},
+
+	{ "name":"gansu","z_name": "甘肃省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"lanzhou","z_name":"兰州市"},
+
+		{"name":"jiayuguan","z_name":"嘉峪关市"},
+
+		{"name":"jinchang","z_name":"金昌市"},
+
+		{"name":"baiyin","z_name":"白银市"},
+
+		{"name":"tianshui","z_name":"天水市"},
+
+		{"name":"wuwei","z_name":"武威市"},
+
+		{"name":"zhangye","z_name":"张掖市"},
+
+		{"name":"pingliang","z_name":"平凉市"},
+
+		{"name":"jiuquan","z_name":"酒泉市"},
+
+		{"name":"qingyang","z_name":"庆阳市"},
+
+		{"name":"dingxi","z_name":"定西市"},
+
+		{"name":"longnan","z_name":"陇南市"},
+
+		{"name":"linxia","z_name":"临夏回族自治州"},
+
+		{"name":"gannan","z_name":"甘南藏族自治州"}
+
+	]},
+
+	{ "name":"qinghai","z_name": "青海省", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"xining","z_name":"西宁市"},
+
+		{"name":"haidong","z_name":"海东市"},
+
+		{"name":"haibei","z_name":"海北藏族自治州"},
+
+		{"name":"huangnan","z_name":"黄南藏族自治州"},
+
+		{"name":"hainan","z_name":"海南藏族自治州"},
+
+		{"name":"guoluo","z_name":"果洛藏族自治州"},
+
+		{"name":"yushu","z_name":"玉树藏族自治州"},
+
+		{"name":"haiximengguzu","z_name":"海西蒙古族藏族自治州"}
+
+	]},
+
+	{ "name":"ningxia","z_name": "宁夏回族自治区", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"yinchuan","z_name":"银川市"},
+
+		{"name":"shizuishan","z_name":"石嘴山市"},
+
+		{"name":"wuzhong","z_name":"吴忠市"},
+
+		{"name":"guyuan","z_name":"固原市"},
+
+		{"name":"zhongwei","z_name":"中卫市"}
+
+	]}, 
+
+	{ "name":"xinjiang","z_name": "新疆维吾尔自治区", "city":[
+		
+		{"name":"all","z_name":"所有城市"},
+
+		{"name":"wulumuqi","z_name":"乌鲁木齐市"},
+
+		{"name":"kelamayi","z_name":"克拉玛依市"},
+
+		{"name":"tulufan","z_name":"吐鲁番市"},
+
+		{"name":"hami","z_name":"哈密市"},
+
+		{"name":"changji","z_name":"昌吉回族自治州"},
+
+		{"name":"boertala","z_name":"博尔塔拉蒙古自治州"},
+
+		{"name":"bayinguoleng","z_name":"巴音郭楞蒙古自治州"},
+
+		{"name":"akesu","z_name":"阿克苏地区"},
+
+		{"name":"kezilesukeerkezi","z_name":"克孜勒苏柯尔克孜自治州"},
+
+		{"name":"kashi","z_name":"喀什地区"},
+
+		{"name":"hetian","z_name":"和田地区"},
+
+		{"name":"yilihasake","z_name":"伊犁哈萨克自治州"},
+
+		{"name":"yilihasake","z_name":"塔城地区"},
+
+		{"name":"yilihasake","z_name":"阿勒泰地区"},
+
+		{"name":"shihezi","z_name":"石河子市"},
+
+		{"name":"alaer","z_name":"阿拉尔市"},
+
+		{"name":"tumushuke","z_name":"图木舒克市"},
+
+		{"name":"wujiaqu","z_name":"五家渠市"},
+
+		{"name":"wujiaqu","z_name":"北屯市"},
+
+		{"name":"wujiaqu","z_name":"铁门关市"},
+
+		{"name":"wujiaqu","z_name":"双河市"},
+
+		{"name":"wujiaqu","z_name":"可克达拉市"},
+
+		{"name":"wujiaqu","z_name":"昆玉市"}
+
+	]},
+
+	{ "name":"xianggang","z_name":"香港特别行政区","city":[{"name":"all","z_name":"所有城市"}]},
+
+	{ "name":"aomen","z_name":"澳门特别行政区","city":[{"name":"all","z_name":"所有城市"}]},
+
+	{ "name":"taiwan","z_name":"台湾省","city":[{"name":"all","z_name":"所有城市"}]}
+
+]}
